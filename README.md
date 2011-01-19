@@ -8,7 +8,7 @@
 
 ## Why ##
 
-Why do you want to run Jasmine tests on Windows headlessly? Simle: continuous integration. If your build system runs on Windows and you want to test drive your  JavaScript, you _need_ it to run automatically and report results. Most build systems accept junit test result format, so integrating Jafar is easy.
+Why do you want to run Jasmine tests on Windows headlessly? Simple: continuous integration. If your build system runs on Windows and you want to test drive your JavaScript, you _need_ it to run automatically and report results. Most build systems accept the JUnit test result format, so integrating Jafar is easy.
 
 ## How ##
 
