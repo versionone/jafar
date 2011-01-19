@@ -4,3 +4,5 @@ bin
 obj
 *.suo
 dist
+*.orig
+test/*.xml
