@@ -27,4 +27,4 @@ Thanks to the efforts of the developers listed below, Jafar is made possible.
 
 ### Who ###
 
-Who is Jafar anyway? He was the [evil sorcerer in the movie Aladdin](http://en.wikipedia.org/wiki/Jafar_(Aladdin)#Jafar). He desired Princess Jasmine and after rejection turns to his powers to control her. We think it fits rather nicely with what this project is trying to do.
+Who is Jafar anyway? He was the [evil sorcerer in the movie Aladdin](http://en.wikipedia.org/wiki/Jafar_\(Aladdin\)\#Jafar). He desired Princess Jasmine and after rejection turns to his powers to control her. We think it fits rather nicely with what this project is trying to do.
