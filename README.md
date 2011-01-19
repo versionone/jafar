@@ -18,13 +18,13 @@ Jafar is not revolutionary. In fact most of this system has already been proven 
 
 Thanks to the efforts of the developers listed below, Jafar is made possible. 
 
-* [https://github.com/pivotal/jasmine]
-* [https://github.com/jeremylightsmith/HeadlessJavascriptTestingInDotNet]
-* [https://github.com/cowboyd/therubyracer]
-* [http://javascriptdotnet.codeplex.com/]
-* [https://github.com/larrymyers/jasmine-reporters]
-* [http://rake.rubyforge.org/]
+* <https://github.com/pivotal/jasmine>
+* <https://github.com/jeremylightsmith/HeadlessJavascriptTestingInDotNet>
+* <https://github.com/cowboyd/therubyracer>
+* <http://javascriptdotnet.codeplex.com/>
+* <https://github.com/larrymyers/jasmine-reporters>
+* <http://rake.rubyforge.org/>
 
 ### Who ###
 
-Who is Jafar anyway? He was the [http://en.wikipedia.org/wiki/Jafar_(Aladdin)#Jafar](evil sorcerer in the movie Aladdin). He desired Princess Jasmine and after rejection turns to his powers to control her. We think it fits rather nicely with what this project is trying to do.
+Who is Jafar anyway? He was the [evil sorcerer in the movie Aladdin](http://en.wikipedia.org/wiki/Jafar_(Aladdin)#Jafar). He desired Princess Jasmine and after rejection turns to his powers to control her. We think it fits rather nicely with what this project is trying to do.
